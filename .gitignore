@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Archivo de variables de entorno
+.env
+
+# Logs y archivos de depuración
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos generados por el sistema operativo
+.DS_Store
+
+# Directorios y archivos de editores
+.vscode/
+.idea/
+
+# Carpetas de build (si se generan)
+dist/
+build/
